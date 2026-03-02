@@ -1,0 +1,14 @@
+name: clorexa_hosting
+description: Clorexa Hosting Android App
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.7.0
+
+flutter:
+  uses-material-design: true
